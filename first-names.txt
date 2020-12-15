@@ -1,4 +1,5 @@
 Aaren
+Aaron
 Aarika
 Abagael
 Abagail
@@ -106,6 +107,7 @@ Alberta
 Albertina
 Albertine
 Albina
+Alec
 Alecia
 Aleda
 Aleece
@@ -632,6 +634,7 @@ Blondelle
 Blondie
 Blondy
 Blythe
+Bob
 Bobbe
 Bobbee
 Bobbette
@@ -1268,6 +1271,7 @@ Datha
 Daune
 Daveen
 Daveta
+David
 Davida
 Davina
 Davine
@@ -1462,6 +1466,7 @@ Doti
 Dotti
 Dottie
 Dotty
+Dmitry
 Dre
 Dreddy
 Dredi
@@ -1710,6 +1715,7 @@ Etta
 Etti
 Ettie
 Etty
+Euan
 Eudora
 Eugenia
 Eugenie
@@ -2441,6 +2447,7 @@ Jillian
 Jillie
 Jilly
 Jinny
+Jimmy
 Jo
 Jo Ann
 Jo-Ann
@@ -2696,6 +2703,7 @@ Katuscha
 Katusha
 Katy
 Katya
+Kavin
 Kay
 Kaycee
 Kaye
@@ -2728,6 +2736,7 @@ Kelsy
 Kendra
 Kendre
 Kenna
+Ken
 Keri
 Keriann
 Kerianne
@@ -4224,6 +4233,7 @@ Ruthie
 Ruthy
 Ryann
 Rycca
+Saanvi
 Saba
 Sabina
 Sabine
@@ -4430,6 +4440,7 @@ Sisile
 Sissie
 Sissy
 Siusan
+Siyuan
 Sofia
 Sofie
 Sondra
@@ -4461,6 +4472,7 @@ Starlene
 Starlin
 Starr
 Stefa
+Stefan
 Stefania
 Stefanie
 Steffane
